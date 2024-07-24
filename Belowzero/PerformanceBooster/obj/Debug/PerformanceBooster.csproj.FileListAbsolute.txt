@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\Belowzero\PerformanceBooster\obj\Debug\PerformanceBooster.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\Belowzero\PerformanceBooster\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\Belowzero\PerformanceBooster\obj\Debug\PerformanceBooster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\Belowzero\PerformanceBooster\obj\Debug\PerformanceBooster.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\Belowzero\PerformanceBooster\bin\Debug\PerformanceBooster.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\Belowzero\PerformanceBooster\bin\Debug\PerformanceBooster.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\Belowzero\PerformanceBooster\obj\Debug\PerformanceBooster.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\Belowzero\PerformanceBooster\obj\Debug\PerformanceBooster.pdb

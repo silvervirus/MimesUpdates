@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ExtraTabs\obj\Debug\ExtraTabs.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ExtraTabs\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ExtraTabs\obj\Debug\ExtraTabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ExtraTabs\obj\Debug\ExtraTabs.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ExtraTabs\bin\Debug\ExtraTabs.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ExtraTabs\bin\Debug\ExtraTabs.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ExtraTabs\obj\Debug\ExtraTabs.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ExtraTabs\obj\Debug\ExtraTabs.pdb

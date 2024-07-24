@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\BetterHUDInfo\bin\Debug\BetterHUDInfo.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\BetterHUDInfo\bin\Debug\BetterHUDInfo.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\BetterHUDInfo\obj\Debug\BetterHUDInfo.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\BetterHUDInfo\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\BetterHUDInfo\obj\Debug\BetterHUDInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\BetterHUDInfo\obj\Debug\BetterHUDInfo.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\BetterHUDInfo\obj\Debug\BetterHUDInfo.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\BetterHUDInfo\obj\Debug\BetterHUDInfo.pdb
