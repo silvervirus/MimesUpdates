@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveStartupDisclaimer\obj\Debug\RemoveStartupDisclaimer.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveStartupDisclaimer\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveStartupDisclaimer\obj\Debug\RemoveStartupDisclaimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveStartupDisclaimer\obj\Debug\RemoveStartupDisclaimer.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveStartupDisclaimer\bin\Debug\RemoveStartupDisclaimer.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveStartupDisclaimer\bin\Debug\RemoveStartupDisclaimer.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveStartupDisclaimer\obj\Debug\RemoveStartupDisclaimer.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveStartupDisclaimer\obj\Debug\RemoveStartupDisclaimer.pdb

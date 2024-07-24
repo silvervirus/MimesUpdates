@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ToolsFlashLight\bin\Debug\ToolsFlashLight.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ToolsFlashLight\bin\Debug\ToolsFlashLight.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ToolsFlashLight\obj\Debug\ToolsFlashLight.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ToolsFlashLight\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ToolsFlashLight\obj\Debug\ToolsFlashLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ToolsFlashLight\obj\Debug\ToolsFlashLight.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ToolsFlashLight\obj\Debug\ToolsFlashLight.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ToolsFlashLight\obj\Debug\ToolsFlashLight.pdb

@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveOptionsButtons\obj\Debug\RemoveOptionsButtons.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveOptionsButtons\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveOptionsButtons\obj\Debug\RemoveOptionsButtons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveOptionsButtons\obj\Debug\RemoveOptionsButtons.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveOptionsButtons\bin\Debug\RemoveOptionsButtons.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveOptionsButtons\bin\Debug\RemoveOptionsButtons.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveOptionsButtons\obj\Debug\RemoveOptionsButtons.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\RemoveOptionsButtons\obj\Debug\RemoveOptionsButtons.pdb

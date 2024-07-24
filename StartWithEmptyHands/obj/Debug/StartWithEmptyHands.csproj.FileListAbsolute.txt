@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\StartWithEmptyHands\obj\Debug\StartWithEmptyHands.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\StartWithEmptyHands\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\StartWithEmptyHands\obj\Debug\StartWithEmptyHands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\StartWithEmptyHands\obj\Debug\StartWithEmptyHands.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\StartWithEmptyHands\bin\Debug\StartWithEmptyHands.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\StartWithEmptyHands\bin\Debug\StartWithEmptyHands.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\StartWithEmptyHands\obj\Debug\StartWithEmptyHands.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\StartWithEmptyHands\obj\Debug\StartWithEmptyHands.pdb
