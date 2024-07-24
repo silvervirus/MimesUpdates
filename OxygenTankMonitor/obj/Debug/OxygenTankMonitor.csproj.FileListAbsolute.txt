@@ -1,0 +1,10 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\bin\Debug\OxygenTankMonitor.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\bin\Debug\OxygenTankMonitor.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\bin\Debug\MoreModifiedItems_publicized.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\obj\Debug\OxygenTankMonitor.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\obj\Debug\OxygenTankMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\obj\Debug\OxygenTankMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\obj\Debug\OxygenTa.A674C54E.Up2Date
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\obj\Debug\OxygenTankMonitor.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenTankMonitor\obj\Debug\OxygenTankMonitor.pdb

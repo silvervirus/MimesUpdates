@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E29BBF37-E16C-44C4-B316-72E56F6DFA10}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>OxygenAudioMonitor</RootNamespace>
+    <AssemblyName>OxygenAudioMonitor</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helpers\CheckConditions.cs" />
+    <Compile Include="Helpers\FlickSwitch.cs" />
+    <Compile Include="Helpers\GetSound.cs" />
+    <Compile Include="InfoObjects\ModInfo.cs" />
+    <Compile Include="MainPatcher.cs" />
+    <Compile Include="ManageGUI\AdjustImages.cs" />
+    <Compile Include="ManageGUI\DisplayPrompts.cs" />
+    <Compile Include="ManageGUI\ManageAllGUIElements.cs" />
+    <Compile Include="ManageGUI\ManageOxygenIcons.cs" />
+    <Compile Include="ManageGUI\PrepareGUIObjects.cs" />
+    <Compile Include="ManageGUI\PrepareGUISprite.cs" />
+    <Compile Include="Modules\OxygenAudioMonitorChip.cs" />
+    <Compile Include="Patches\Player_Update_Patch.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="..\..\..\SubnauticaPlugins-Nautilus-main\RewrittenRamuneLibsn\RewrittenRamuneLib.projitems" Label="Shared" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

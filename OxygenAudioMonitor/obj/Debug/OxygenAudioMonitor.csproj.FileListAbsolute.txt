@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenAudioMonitor\bin\Debug\OxygenAudioMonitor.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenAudioMonitor\bin\Debug\OxygenAudioMonitor.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenAudioMonitor\obj\Debug\OxygenAudioMonitor.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenAudioMonitor\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenAudioMonitor\obj\Debug\OxygenAudioMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenAudioMonitor\obj\Debug\OxygenAudioMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenAudioMonitor\obj\Debug\OxygenAudioMonitor.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenAudioMonitor\obj\Debug\OxygenAudioMonitor.pdb

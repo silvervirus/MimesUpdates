@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenCanisters\obj\Debug\OxygenCanisters.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenCanisters\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenCanisters\obj\Debug\OxygenCanisters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenCanisters\obj\Debug\OxygenCanisters.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenCanisters\bin\Debug\OxygenCanisters.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenCanisters\bin\Debug\OxygenCanisters.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenCanisters\obj\Debug\OxygenCanisters.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\OxygenCanisters\obj\Debug\OxygenCanisters.pdb
