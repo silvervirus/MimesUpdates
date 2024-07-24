@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ImmersiveOutcropBreak\obj\Debug\ImmersiveOutcropBreak.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ImmersiveOutcropBreak\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ImmersiveOutcropBreak\obj\Debug\ImmersiveOutcropBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ImmersiveOutcropBreak\obj\Debug\ImmersiveOutcropBreak.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ImmersiveOutcropBreak\bin\Debug\ImmersiveOutcropBreak.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ImmersiveOutcropBreak\bin\Debug\ImmersiveOutcropBreak.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ImmersiveOutcropBreak\obj\Debug\ImmersiveOutcropBreak.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\ImmersiveOutcropBreak\obj\Debug\ImmersiveOutcropBreak.pdb

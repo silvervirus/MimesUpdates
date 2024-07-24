@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F8C9F32F-E83B-4AB9-93F9-32BB5567BC3A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ImmersiveOutcropBreak</RootNamespace>
+    <AssemblyName>ImmersiveOutcropBreak</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\Config.cs" />
+    <Compile Include="Configuration\Options.cs" />
+    <Compile Include="Helpers\CheckConditions.cs" />
+    <Compile Include="Helpers\FormatText.cs" />
+    <Compile Include="Helpers\GetStuff.cs" />
+    <Compile Include="Info\ModInfo.cs" />
+    <Compile Include="InGame\BreakOutcrop.cs" />
+    <Compile Include="InGame\MonitorAutoBreakKey.cs" />
+    <Compile Include="InGame\MonitorAutoPickupKey.cs" />
+    <Compile Include="InGame\MonitorPulseOnOffKey.cs" />
+    <Compile Include="InGame\MonitorShowInventoryKey.cs" />
+    <Compile Include="MainPatcher.cs" />
+    <Compile Include="ManageGUI\DisplayInventory.cs" />
+    <Compile Include="ManageGUI\DisplayPrompts.cs" />
+    <Compile Include="ManageGUI\MakeAllGUIObjects.cs" />
+    <Compile Include="ManageGUI\ManageAllGUIElements.cs" />
+    <Compile Include="ManageGUI\PrepareGUIObjects.cs" />
+    <Compile Include="ManageGUI\PrepareGUISprite.cs" />
+    <Compile Include="Modules\AdvancedShaleGloves.cs" />
+    <Compile Include="Modules\BasicShaleGloves.cs" />
+    <Compile Include="Modules\HiTechGloveChip.cs" />
+    <Compile Include="Modules\LoTechGloveChip.cs" />
+    <Compile Include="Modules\MidTechGloveChip.cs" />
+    <Compile Include="Modules\StandardShaleGloves.cs" />
+    <Compile Include="Patches\BreakableResource_OnHandClick_Patch.cs" />
+    <Compile Include="Patches\BreakableResource_OnHandHover_Patch.cs" />
+    <Compile Include="Patches\Pickupable_OnHandHover_Patch.cs" />
+    <Compile Include="Patches\Player_Awake_Patch.cs" />
+    <Compile Include="Patches\Player_Start_Patch.cs" />
+    <Compile Include="Patches\Player_Update_Patch.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="..\..\..\SubnauticaPlugins-Nautilus-main\RewrittenRamuneLibsn\RewrittenRamuneLib.projitems" Label="Shared" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoreChipSlots\bin\Debug\MoreChipSlots.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoreChipSlots\bin\Debug\MoreChipSlots.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoreChipSlots\obj\Debug\MoreChipSlots.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoreChipSlots\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoreChipSlots\obj\Debug\MoreChipSlots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoreChipSlots\obj\Debug\MoreChipSlots.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoreChipSlots\obj\Debug\MoreChipSlots.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoreChipSlots\obj\Debug\MoreChipSlots.pdb

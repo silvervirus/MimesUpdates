@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoonpoolDisplayRepair\bin\Debug\MoonpoolDisplayRepair.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoonpoolDisplayRepair\bin\Debug\MoonpoolDisplayRepair.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoonpoolDisplayRepair\obj\Debug\MoonpoolDisplayRepair.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoonpoolDisplayRepair\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoonpoolDisplayRepair\obj\Debug\MoonpoolDisplayRepair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoonpoolDisplayRepair\obj\Debug\MoonpoolDisplayRepair.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoonpoolDisplayRepair\obj\Debug\MoonpoolDisplayRepair.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\MoonpoolDisplayRepair\obj\Debug\MoonpoolDisplayRepair.pdb
