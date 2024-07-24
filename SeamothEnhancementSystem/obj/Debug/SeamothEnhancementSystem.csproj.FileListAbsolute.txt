@@ -1,0 +1,8 @@
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\SeamothEnhancementSystem\bin\Debug\SeamothEnhancementSystem.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\SeamothEnhancementSystem\bin\Debug\SeamothEnhancementSystem.pdb
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\SeamothEnhancementSystem\obj\Debug\SeamothEnhancementSystem.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\SeamothEnhancementSystem\obj\Debug\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\SeamothEnhancementSystem\obj\Debug\SeamothEnhancementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\SeamothEnhancementSystem\obj\Debug\SeamothEnhancementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\SeamothEnhancementSystem\obj\Debug\SeamothEnhancementSystem.dll
+C:\Users\Cookay\Desktop\Mimes\Sourcecode\SeamothEnhancementSystem\obj\Debug\SeamothEnhancementSystem.pdb

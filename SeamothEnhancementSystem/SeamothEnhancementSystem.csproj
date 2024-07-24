@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BA118E39-4B73-47AB-8093-51E0F4B1D52E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>SeamothEnhancementSystem</RootNamespace>
+    <AssemblyName>SeamothEnhancementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\Config.cs" />
+    <Compile Include="InfoObjects\GearInfo.cs" />
+    <Compile Include="InfoObjects\OtherModsInfo.cs" />
+    <Compile Include="InfoObjects\SeamothInfo.cs" />
+    <Compile Include="InGame\MonitorBatteryCount.cs" />
+    <Compile Include="InGame\MonitorCruiseKey.cs" />
+    <Compile Include="InGame\MonitorEjectAbortKey.cs" />
+    <Compile Include="InGame\MonitorEjectOnKey.cs" />
+    <Compile Include="InGame\MonitorGearKeys.cs" />
+    <Compile Include="InGame\MonitorHealthKey.cs" />
+    <Compile Include="InGame\MonitorLightBeamKey.cs" />
+    <Compile Include="InGame\MonitorModeKey.cs" />
+    <Compile Include="InGame\MonitorPowerKey.cs" />
+    <Compile Include="InGame\MonitorReloadKey.cs" />
+    <Compile Include="InGame\MonitorSafetyChargerOnKey.cs" />
+    <Compile Include="InGame\MonitorSafetyCruiseOnKey.cs" />
+    <Compile Include="InGame\SeaglideMapControlFix.cs" />
+    <Compile Include="InGame\ToggleLightBeam.cs" />
+    <Compile Include="MainPatcher.cs" />
+    <Compile Include="ManageGUI\DisplayPrompts.cs" />
+    <Compile Include="ManageGUI\ManageAllGUIElements.cs" />
+    <Compile Include="ManageGUI\ManageBackgroundImg.cs" />
+    <Compile Include="ManageGUI\ManageBatteryHelpers.cs" />
+    <Compile Include="ManageGUI\ManageBatteryMain.cs" />
+    <Compile Include="ManageGUI\ManageCcIcons.cs" />
+    <Compile Include="ManageGUI\ManageChargerIcons.cs" />
+    <Compile Include="ManageGUI\ManageCruiseIcons.cs" />
+    <Compile Include="ManageGUI\ManageCruiseTxt.cs" />
+    <Compile Include="ManageGUI\ManageEjectIcons.cs" />
+    <Compile Include="ManageGUI\ManageGearsIcons.cs" />
+    <Compile Include="ManageGUI\ManageGearTxt.cs" />
+    <Compile Include="ManageGUI\ManageHealthTxt.cs" />
+    <Compile Include="ManageGUI\ManageKmhTxt.cs" />
+    <Compile Include="ManageGUI\ManageLightIcons.cs" />
+    <Compile Include="ManageGUI\ManageMainSafetyDescTxt.cs" />
+    <Compile Include="ManageGUI\ManageMainSafetyIcons.cs" />
+    <Compile Include="ManageGUI\ManageModeIcons.cs" />
+    <Compile Include="ManageGUI\ManagePowerTxt.cs" />
+    <Compile Include="ManageGUI\ManageSpeedTxt.cs" />
+    <Compile Include="ManageGUI\ManageTemperTxt.cs" />
+    <Compile Include="ManageGUI\PrepareGUIObjects.cs" />
+    <Compile Include="ManageGUI\PrepareGUISprite.cs" />
+    <Compile Include="ManageGUI\PrepareGUITxt.cs" />
+    <Compile Include="Modules\ElectricalEnhancement.cs" />
+    <Compile Include="Modules\ElectronicEnhancement.cs" />
+    <Compile Include="Modules\MechanicalEnhancement.cs" />
+    <Compile Include="Modules\SeamothEnhancementSystemModule.cs" />
+    <Compile Include="Modules\SeamothLink.cs" />
+    <Compile Include="Modules\SeamothSafetyModule.cs" />
+    <Compile Include="Options\Options.cs" />
+    <Compile Include="Patches\GameInput_GetLookDelta_Patch.cs" />
+    <Compile Include="Patches\GameInput_GetMoveDirection_Patch.cs" />
+    <Compile Include="Patches\Player_TryEject_Patch.cs" />
+    <Compile Include="Patches\Player_Update_Patch.cs" />
+    <Compile Include="Patches\SeaMoth_Start_Patch.cs" />
+    <Compile Include="Patches\SeaMoth_Update_Patch.cs" />
+    <Compile Include="Patches\ToggleLights_CheckLightToggle_Patch.cs" />
+    <Compile Include="Patches\uGUI_SeamothHUD_Update_Patch.cs" />
+    <Compile Include="Patches\Vehicle_ConsumeEngineEnergy_Patch.cs" />
+    <Compile Include="Patches\Vehicle_OnCollisionEnter_Patch.cs" />
+    <Compile Include="Patches\Vehicle_Start_Patch.cs" />
+    <Compile Include="Patches\Vehicle_Update_Patch.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="..\..\..\SubnauticaPlugins-Nautilus-main\RewrittenRamuneLibsn\RewrittenRamuneLib.projitems" Label="Shared" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
