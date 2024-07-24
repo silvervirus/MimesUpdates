@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E254BFD5-7227-4BC1-842A-530EF5A0E9A8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ToolsFlashLight</RootNamespace>
+    <AssemblyName>ToolsFlashLight</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Configuration\ConfigData.cs" />
+    <Compile Include="Configuration\OptionsData.cs" />
+    <Compile Include="Helpers\CheckConditions.cs" />
+    <Compile Include="Helpers\FormatText.cs" />
+    <Compile Include="Helpers\GetSounds.cs" />
+    <Compile Include="InfoObjects\ModInfo.cs" />
+    <Compile Include="InGame\MonitorLightIntensityKey.cs" />
+    <Compile Include="InGame\MonitorLightToggleKey.cs" />
+    <Compile Include="InGame\ProcessLight.cs" />
+    <Compile Include="InGame\ToggleFlashLight.cs" />
+    <Compile Include="InGame\TuneLight.cs" />
+    <Compile Include="InGame\UpdateLightIntensity.cs" />
+    <Compile Include="MainPatcher.cs" />
+    <Compile Include="ManageGUI\DisplayPrompts.cs" />
+    <Compile Include="ManageGUI\ManageAllGUIElements.cs" />
+    <Compile Include="ManageGUI\ManageFlashlightIcons.cs" />
+    <Compile Include="ManageGUI\PrepareGUIObjects.cs" />
+    <Compile Include="ManageGUI\PrepareGUISprite.cs" />
+    <Compile Include="Modules\BuilderLightChip.cs" />
+    <Compile Include="Modules\CutterLightChip.cs" />
+    <Compile Include="Modules\ScannerLightChip.cs" />
+    <Compile Include="Modules\ToolsLightChip.cs" />
+    <Compile Include="Modules\WelderLightChip.cs" />
+    <Compile Include="Patches\BuilderTool_GetUsedToolThisFrame_Patch.cs" />
+    <Compile Include="Patches\BuilderTool_Update_Patch.cs" />
+    <Compile Include="Patches\LaserCutter_GetUsedToolThisFrame_Patch.cs" />
+    <Compile Include="Patches\LaserCutter_Update_Patch.cs" />
+    <Compile Include="Patches\PlayerTool_Awake_Patch.cs" />
+    <Compile Include="Patches\PlayerTool_OnHolster_Patch.cs" />
+    <Compile Include="Patches\Player_Update_Patch.cs" />
+    <Compile Include="Patches\ScannerTool_GetUsedToolThisFrame_Patch.cs" />
+    <Compile Include="Patches\ScannerTool_Update_Patch.cs" />
+    <Compile Include="Patches\Welder_GetUsedToolThisFrame_Patch.cs" />
+    <Compile Include="Patches\Welder_Update_Patch.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="..\..\..\SubnauticaPlugins-Nautilus-main\RewrittenRamuneLibsn\RewrittenRamuneLib.projitems" Label="Shared" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
